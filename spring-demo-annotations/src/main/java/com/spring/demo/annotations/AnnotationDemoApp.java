@@ -2,6 +2,9 @@ package com.spring.demo.annotations;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import com.spring.demo.annotations.coach.impl.TennisCoach;
+import com.spring.demo.annotations.interfaces.Coach;
+
 /**
  * Runs annotation demo application
  *

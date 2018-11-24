@@ -1,4 +1,4 @@
-package com.spring.demo.annotations;
+package com.spring.demo.annotations.interfaces;
 
 /**
  * Defines a daily fortune service for implementing classes

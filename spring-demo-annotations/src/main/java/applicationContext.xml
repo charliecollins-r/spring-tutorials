@@ -8,6 +8,9 @@
     http://www.springframework.org/schema/context/spring-context.xsd">
 
     <context:component-scan base-package="com.spring.demo.annotations" />
+    <context:component-scan base-package="com.spring.demo.annotations.coach.impl" />
+    <context:component-scan base-package="com.spring.demo.annotations.fortune.service.impl" />
+    <context:component-scan base-package="com.spring.demo.annotations.interfaces" />
         
 </beans>
 

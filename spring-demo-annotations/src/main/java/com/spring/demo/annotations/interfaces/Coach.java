@@ -1,11 +1,12 @@
-package com.spring.demo.annotations;
+package com.spring.demo.annotations.interfaces;
 
 /**
  * A set of shared coach attributes and actions
  *
  * @author Charlie Collins
  */
-public interface Coach {
+public interface Coach extends FortuneService {
+
     /**
      * Returns the daily workout for the coach.
      *
