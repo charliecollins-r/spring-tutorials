@@ -1,4 +1,4 @@
-package spring_tutorials.spring_demo_first;
+package spring.tutorials.demo.first;
 
 /**
  * A {@link Coach} that specializes in track.
